@@ -1,2 +1,0 @@
-# Coacco
-privacy policies design
